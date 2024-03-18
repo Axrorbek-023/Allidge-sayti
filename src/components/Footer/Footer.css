@@ -1,0 +1,48 @@
+.footer{
+    background-color: #0D1117;
+    padding-bottom: 100px;
+}
+.allidge2{
+    color: white;
+    display: block;
+}
+.first{
+    width: 100px;
+    margin-right: 100px;
+    .img{
+        width: 200px;
+    }
+}
+.two{
+    margin-left: 10px;
+    color: white;
+    padding-top: 10px;
+    p{
+        padding-top: 15px;
+    }
+}
+.three{
+    color: white;
+    padding-top: 10px;
+    p{
+        padding-top: 15px;
+    }
+}
+.four{
+    color: white;
+    padding-top: 10px;
+    p{
+        padding-top: 15px;
+    }
+}
+.second{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.h{
+    color: white;
+    text-align: center;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
